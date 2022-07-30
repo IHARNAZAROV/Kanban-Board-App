@@ -19,13 +19,14 @@
     border:none;
     height: 20px;
     padding:12px;
+    color:#f582ae;
     background-color: transparent;
-    border-bottom: 0.8px solid #ffcad4;
+    border-bottom: 0.8px solid #b8c1ec;
     outline:none;
 }
 
 .input__task:focus{
-    border-color:#ffcad4;
+    border-color:#b8c1ec;
 }
 
 .form__confirm {
@@ -44,12 +45,12 @@
     margin:8px 0;
     letter-spacing: 0.3px;
     background-color: transparent;
-    border: 0.8px solid #ffcad4;
+    border: 0.8px solid #b8c1ec;
     border-radius: 20px;
     cursor: pointer;
 }
 
 .button__submit:hover{
-    background-color: rgb(37, 41, 38);
+    background-color: #020826;
     color: #ffcad4;
 }

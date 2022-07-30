@@ -1,6 +1,6 @@
 .board__container {
     margin-top: 30px;
-    color:#B39CD0;
+    color:#eebbc3;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -10,8 +10,8 @@
     height: 100%;
     min-height: 260px;
     padding:3px;
-    background-color: #330758;
-    border-left: 5px solid #d94e3b ;
+    background-color: #0e172c;
+    border-left: 5px solid #eebbc3 ;
     border-radius: 20px;
 }
 

@@ -11,7 +11,7 @@
 }
 
 .columnItem__container:not(:last-child){
-    border-right: 1.3px solid #113537;
+    border-right: 1.3px solid #f9bc60;
 }
 
 .columnItem__header {
@@ -26,7 +26,7 @@
     font-size: 16px;
     font-weight: 400;
     padding-left: 4px;
-    border-left: 1px solid #113537;
+    border-left: 1px solid #f9bc60;
 }
 
 
@@ -47,11 +47,11 @@
 }
 
 .todo .task__container {
-    border-left: 7px solid #113537;
+    border-left: 7px solid #f9bc60;
 }
 
 .doing .task__container {
-    border-left: 7px solid #faa275 ;
+    border-left: 7px solid #e53170 ;
 }
 
 .done .task__container {
@@ -83,7 +83,7 @@
 }
 
 .task__move{
-    border: 1px solid #CA4E79;
+    border: 1px solid #eebbc3;
     border-radius: 20px;
     background-color: transparent;
     padding: 5px;
@@ -93,7 +93,7 @@
 }
 
 .task__remove{
-    border: 1px solid  #CA4E79;
+    border: 1px solid  #eebbc3;
     border-radius: 20px;
     background-color: transparent;
     padding:5px;
@@ -104,11 +104,11 @@
 }
 
 .task__move:hover {
-    background-color:  #CA4E79;
-    color: white;
+    background-color:  #eebbc3;
+    color: #121629;
 }
 
 .task__remove:hover{
-    background-color:  #CA4E79;
-    color: white;
+    background-color:  #eebbc3;
+    color: #121629;
 }
