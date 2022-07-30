@@ -6,10 +6,6 @@
 3. [Technologies](#technologies)
 4. [Solutions](#solutions)
 5. [Development](#development)
-6. [Project preview](#project-preview)
-7. [Contact](#feel-free-to-contact-me)
-8. [Sources](#sources)
-9. [Thanks](#thanks-for-project-and-support-to-Mateusz-Bogolubow)
 
 ## About the project
 The aim of the project was to create application "Kanban Board" to manage tasks. Application has a feature, which allowes to add new tasks by using a form to add new tasks and it is consisted with three columns:
@@ -67,10 +63,6 @@ columns.json
 6. ```<ConfirmDeleteTask>``` - component which renders a pop up when user want to remove a task
 7. ```<Alert>``` - the component which render an alert when the limit in columns was exhausted
 
-## How to see it
-I have prepared a short video, to show how my application works. Please click the link below. You can check the screenshots, which are attached below, as well.
-* [Kanban Board - React | Ewelina Kopacz](https://www.awesomescreenshot.com/video/9768573?key=a13cc2551935f5b52d5250828a2df5aa
-)
 
 ## Technologies:
 * JavaScript
@@ -95,21 +87,3 @@ I am going to develop application by adding additional functionalities such as:
 * development a form: adding more fields like:
     * priority
     * deadline
-
-### Project preview
-Kanban Board
-![Project-preview](./preview/preview1.png)
-
-Alert
-![Project-preview](./preview/preview2.png)
-
-### Feel free to contact me:
-* [Linkedin](https://www.linkedin.com/in/ewelina-kopacz-929559100/) - Ewelina Kopacz
-
-### Sources:
-* [Using localStorage with React Hooks](https://blog.logrocket.com/using-localstorage-react-hooks/)
-* [Hooki React – useContext tutorial](https://love-coding.pl/hooki-react-usecontext-tutorial/)
-* [Passing Data Between React Components — Parent, Children, Siblings](https://towardsdatascience.com/passing-data-between-react-components-parent-children-siblings-a64f89e24ecf)
-
-### Thanks for project and support to Mateusz Bogolubow:
-* Mentor i Trener Programowania JavaScript - [DevMentor](https://devmentor.pl/) - Mateusz Bogolubow
