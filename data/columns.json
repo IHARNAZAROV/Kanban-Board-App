@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "columnName":"to do",
+        "limit": 4,
+        "class":"todo",
+        "classIcon":"fa-solid fa-circle-down"
+    },
+    {
+        "id":2,
+        "columnName":"In progress",
+        "limit": 4,
+        "class":"doing",
+        "classIcon":"fa-solid fa-hourglass-end"
+ 
+    },
+    {
+        "id":3,
+        "columnName":"Already done",
+        "limit": 6,
+        "class":"done",
+        "classIcon":"fa-solid fa-square-check"
+    }
+]

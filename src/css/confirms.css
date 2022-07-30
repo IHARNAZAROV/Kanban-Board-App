@@ -1,0 +1,64 @@
+.delete__container {
+    width: 250px;
+    min-height: 130px;
+    left: -1.2%;
+    top: 0%;
+    background-color: #f4acb7;
+    position: absolute;
+    border-radius: 20px;
+    padding:10px;
+}
+
+.delete__text {
+    color: #1c2541;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.delete__btns {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top:20px;
+}
+
+.delete__btn {
+    width: 30%;
+    height: auto;
+    min-height: 1.5rem;
+    background-color: #ffcad4;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: .25rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+    box-sizing: border-box;
+    color: #1c2541;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 1.25;
+
+}
+
+.delete__btn:hover,
+.delete__btn:focus {
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  color: #1c2541;
+}
+
+.delete__btn:hover {
+  transform: translateY(-1px);
+}
+
+.delete__btn:active {
+  background-color: #F0F0F1;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  color: #1c2541;
+  transform: translateY(0);
+}
+
+
+
