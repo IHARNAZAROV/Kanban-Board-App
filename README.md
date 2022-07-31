@@ -10,8 +10,8 @@
 ## About the project
 The aim of the project was to create application "Kanban Board" to manage tasks. Application has a feature, which allowes to add new tasks by using a form to add new tasks and it is consisted with three columns:
 * TO DO
-* DOING
-* DONE
+* IN PROGRESS
+* ALREADY DONE
 
 ####  Form features:
 * user can add a new task by using a form
@@ -42,13 +42,11 @@ Informations about default tasks (loaded when localStorage is empty) and columns
 columns.json
 
 [
-    {
         "id":1,
         "columnName":"to do",
         "limit": 4,
         "class":"todo",
-        "classIcon":"fa-solid fa-trowel"
-    },
+        "classIcon":"fa-solid fa-circle-down"
 
 ...
 ]
